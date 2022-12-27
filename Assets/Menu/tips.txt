@@ -1,0 +1,11 @@
+Use the right side for movement and the left side for aiming & firing.\n\n\nHint: Pay attention to these tips",
+Half of the damage taken(rounded up) goes into reducing your maximum health.It can be restored by not moving or letting go of the right side
+You can fly through asteriods, and even be in one. This makes the asteriod untangible(untouchable)
+Some enemy projectiles can be converted by shooting them
+Damage is multiplied by your combo multiplier and maxes out at 2.5. Build it by making successful hits and not missing, and avoid converting projectiles if you need to deal heavy damage
+Energy is restored at lightspeed along with restoring your maximum health
+The amount of enemies in a wave is determined with the mathematical sine function. Therefore, some waves will have significantly less enemies. There is also a short grace period after each wave
+Larger enemy ships have a 'detection' range. When the player leaves this area, it will point towards the player and continoulsy fly in that direction before pointing towards the player again after some time if the player doesn't re-enter(and exit) this area
+Converted grenades and high-explosives can still damage you. Missiles, however, don't.
+Be badass and send small enemies flying into asteriods with shockwaves. It'll also give you a nice score
+Converted missiles will target the closest enemy. If the target is destroyed before the missile blows up, then it'll blow up anyway because I'm too lazy to make them retarget

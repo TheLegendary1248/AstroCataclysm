@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2119656250048719212
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2177296743346907201, guid: 5f4c05510cdea654fb7d2b39ab33ec87,
+        type: 3}
+      propertyPath: m_Name
+      value: Gamma Laser Turret Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 2177296743346907203, guid: 5f4c05510cdea654fb7d2b39ab33ec87,
+        type: 3}
+      propertyPath: Type
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2177296743346907203, guid: 5f4c05510cdea654fb7d2b39ab33ec87,
+        type: 3}
+      propertyPath: Laser
+      value: 
+      objectReference: {fileID: 6965482562528520325, guid: d56ba48c2335244499b9c36a8565b4b8,
+        type: 3}
+    - target: {fileID: 2177296743346907203, guid: 5f4c05510cdea654fb7d2b39ab33ec87,
+        type: 3}
+      propertyPath: GammaFX
+      value: 
+      objectReference: {fileID: 6777659012615376044, guid: 6ef256f74c2caa44dbfd8a2249ed2367,
+        type: 3}
+    - target: {fileID: 2177296743346907203, guid: 5f4c05510cdea654fb7d2b39ab33ec87,
+        type: 3}
+      propertyPath: LaserWidth
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2177296743346907203, guid: 5f4c05510cdea654fb7d2b39ab33ec87,
+        type: 3}
+      propertyPath: RotationSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2177296743346907203, guid: 5f4c05510cdea654fb7d2b39ab33ec87,
+        type: 3}
+      propertyPath: BurstDelay
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2177296743346907203, guid: 5f4c05510cdea654fb7d2b39ab33ec87,
+        type: 3}
+      propertyPath: BurstAmount
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 2177296743346907203, guid: 5f4c05510cdea654fb7d2b39ab33ec87,
+        type: 3}
+      propertyPath: Delay
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2177296743346907203, guid: 5f4c05510cdea654fb7d2b39ab33ec87,
+        type: 3}
+      propertyPath: damage
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 2177296743346907205, guid: 5f4c05510cdea654fb7d2b39ab33ec87,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2177296743346907205, guid: 5f4c05510cdea654fb7d2b39ab33ec87,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 7.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2177296743346907205, guid: 5f4c05510cdea654fb7d2b39ab33ec87,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2177296743346907205, guid: 5f4c05510cdea654fb7d2b39ab33ec87,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2177296743346907205, guid: 5f4c05510cdea654fb7d2b39ab33ec87,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2177296743346907205, guid: 5f4c05510cdea654fb7d2b39ab33ec87,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.35592264
+      objectReference: {fileID: 0}
+    - target: {fileID: 2177296743346907205, guid: 5f4c05510cdea654fb7d2b39ab33ec87,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9345155
+      objectReference: {fileID: 0}
+    - target: {fileID: 2177296743346907205, guid: 5f4c05510cdea654fb7d2b39ab33ec87,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2177296743346907205, guid: 5f4c05510cdea654fb7d2b39ab33ec87,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2177296743346907205, guid: 5f4c05510cdea654fb7d2b39ab33ec87,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2177296743346907205, guid: 5f4c05510cdea654fb7d2b39ab33ec87,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 41.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 2177296744525626694, guid: 5f4c05510cdea654fb7d2b39ab33ec87,
+        type: 3}
+      propertyPath: ShapeModule.radius.value
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 2177296744525626694, guid: 5f4c05510cdea654fb7d2b39ab33ec87,
+        type: 3}
+      propertyPath: InheritVelocityModule.enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2177296744525626694, guid: 5f4c05510cdea654fb7d2b39ab33ec87,
+        type: 3}
+      propertyPath: VelocityModule.enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2177296744525626694, guid: 5f4c05510cdea654fb7d2b39ab33ec87,
+        type: 3}
+      propertyPath: VelocityModule.orbitalZ.scalar
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2177296744525626694, guid: 5f4c05510cdea654fb7d2b39ab33ec87,
+        type: 3}
+      propertyPath: VelocityModule.radial.scalar
+      value: -15
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5f4c05510cdea654fb7d2b39ab33ec87, type: 3}
